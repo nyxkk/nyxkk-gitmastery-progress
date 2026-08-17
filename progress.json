@@ -50,59 +50,5 @@
       "You have successfully undone the init operation!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1786975940.312217,
-    "completed_at": 1786975950.124095,
-    "comments": [
-      "Your Github CLI is not setup correctly"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1786976147.843293,
-    "completed_at": 1786976152.934648,
-    "comments": [
-      "Your Github CLI is not setup correctly"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1786976330.864843,
-    "completed_at": 1786976336.628463,
-    "comments": [
-      "Your Github CLI is not setup correctly"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1786976456.916642,
-    "completed_at": 1786976462.606585,
-    "comments": [
-      "Your Github CLI is not setup correctly"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1786976677.994013,
-    "completed_at": 1786976682.792554,
-    "comments": [
-      "Your Github CLI is not setup correctly"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "remote-control",
-    "started_at": 1786976954.921283,
-    "completed_at": 1786976960.378049,
-    "comments": [
-      "Your Github CLI is not setup correctly"
-    ],
-    "status": "Incomplete"
   }
 ]
