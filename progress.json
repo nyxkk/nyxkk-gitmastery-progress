@@ -95,5 +95,14 @@
       "Your Github CLI is not setup correctly"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1786976954.921283,
+    "completed_at": 1786976960.378049,
+    "comments": [
+      "Your Github CLI is not setup correctly"
+    ],
+    "status": "Incomplete"
   }
 ]
